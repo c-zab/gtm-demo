@@ -10,17 +10,17 @@ const Contact = () => {
       <ul>
         <li>
           <Link href='/'>
-            <a>Home</a>
+            <a>Visit Home</a>
           </Link>
         </li>
         <li>
           <Link href='/about'>
-            <a>About</a>
+            <a>Visit About</a>
           </Link>
         </li>
         <li>
           <Link href='/contact'>
-            <a>Contact</a>
+            <a>Visit Contact</a>
           </Link>
         </li>
       </ul>
