@@ -16,6 +16,19 @@ export default function Home() {
           Welcome to <a href='https://nextjs.org'>Next.js!</a>
         </h1>
 
+        <h2>Google Tag Manager - NextJS</h2>
+        <p>
+          SPA built following this{' '}
+          <a
+            className='my-link'
+            href='https://www.learnbestcoding.com/post/9/easiest-way-to-integrate-google-analytics-with-react-js-and-next-js'
+            target='_blank'
+            rel='noopener noreferrer'
+          >
+            tutorial
+          </a>
+        </p>
+
         <p className={styles.description}>
           Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
